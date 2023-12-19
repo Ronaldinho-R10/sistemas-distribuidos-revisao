@@ -4,7 +4,7 @@
 
 ```elixir
 IO.puts "Olá, mundo!"
-``
+```
 
 
 ## 2. Leia um nome e exiba: “Olá <nome>!”;
